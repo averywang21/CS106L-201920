@@ -1,0 +1,6 @@
+CS106L 4.6 3:05 4:20 2 Wang Zeng
+CS106B 4.5 10:30 11:20 2 Lee Stepp
+CS106A 4.5 1:30 2:20 1 Parlante
+CS106X 4.6 1:30 3:00 1 Cain
+CS107 4.7 11:30 1:30 1 Troccoli
+Math51 3.9 10:30 11:20 5 Lucianovic Taylor White Wieczorek Ying
